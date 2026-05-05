@@ -2,6 +2,7 @@ using UnityEngine;
 
 public class Player : MonoBehaviour
 {
+    public float idadeNat;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -9,8 +10,5 @@ public class Player : MonoBehaviour
     }
 
     // Update is called once per frame
-    void Update()
-    {
-        
-    }
+
 }
